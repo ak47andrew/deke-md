@@ -1,0 +1,13 @@
+# Obsidian workspace and cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/themes/
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js.map
+
+# Other potential temporary or local files
+.DS_Store # macOS specific
+Thumb.db # Windows specific
+*.bak
+*.tmp
