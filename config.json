@@ -1,3 +1,10 @@
 {
-  "showSidebar": true
+  "showSidebar": true,
+  "theme": {
+    "defaultMode": "dark",
+    "showModeSwitch": true
+  },
+  "redirects": [
+    { "from": "/", "to": "/Деке" }
+  ]
 }
